@@ -1,43 +1,35 @@
-# GraphOne / FrontierAtlas - Data Ingestion & Entity Intelligence Pipeline
+# GraphOne / FrontierAtlas — Data Ingestion & Entity Intelligence Pipeline
 
-Production-grade data pipeline built for GraphOne / FrontierAtlas to perform massive multi-dimensional data acquisition, 24-hour signal tracking, multi-tier LLM parsing, entity canonicalization, and structured export.
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Architecture: Production--Grade](https://img.shields.io/badge/Architecture-Scalable%20Pipeline-green.svg)](#-system-architecture)
 
----
-
-## Technical Features
-
-1. **Massive Bulk Data Acquisition (Phase I):**
-   * Concurrent query engine ingesting 1,000+ AI Research Papers via Arxiv API.
-   * Scrapes dynamic metrics (e.g., GitHub stargazers) and structures 1,000+ Startup and Product records into unified JSON schemas.
-
-2. **High-Fidelity Signal Ingestion (Phase II):**
-   * Real-time monitoring of AI news feeds (Hacker News RSS) and AI job boards (RemoteOK API).
-   * ISO-8601 date parsing ensuring strict **24-hour content freshness**.
-
-3. **Multi-Tier LLM & Chunking Strategy (Phase III):**
-   * Resilient fallback cascade: **Gemini Flash ➔ Groq Llama 3 ➔ DeepSeek**.
-   * Pre-truncation DOM-density chunking to eliminate `413 Payload Too Large` errors while preserving semantic density.
-   * Anti-slam exponential backoff with jitter to gracefully handle `429 Too Many Requests`.
-
-4. **Deterministic Entity Resolution (Phase IV):**
-   * Deduplication engine standardizing messy startup and product strings against canonical seed databases (e.g., `"Open AI"` ➔ `"OpenAI"`).
-
-5. **Anti-Bot & Concurrency Architecture (Phase V & VI):**
-   * Asynchronous non-blocking architecture using `asyncio` and `aiohttp`.
-   * Production design for scaling to 500,000+ records via distributed queues (Temporal/Celery) and proxy clusters.
+Production-grade, fault-tolerant data pipeline engineered for **GraphOne / FrontierAtlas** to perform continuous multi-dimensional data acquisition, 24-hour signal tracking, multi-tier LLM parsing, entity canonicalization, and structured export for the global AI and venture capital ecosystem.
 
 ---
 
-## Repository Structure
+## 📌 Table of Contents
+- [Executive Summary](#-executive-summary)
+- [System Architecture](#-system-architecture)
+- [Core Technical Features](#-core-technical-features)
+  - [Phase I: Massive Bulk Data Acquisition](#phase-i-massive-bulk-data-acquisition)
+  - [Phase II: High-Fidelity Signal Ingestion (24h Freshness)](#phase-ii-high-fidelity-signal-ingestion-24h-freshness)
+  - [Phase III: Multi-Tier LLM Parsing & Chunking Strategy](#phase-iii-multi-tier-llm-parsing--chunking-strategy)
+  - [Phase IV: Deterministic Entity Resolution](#phase-iv-deterministic-entity-resolution)
+  - [Phase V & VI: Anti-Bot Concurrency & Scale Architecture](#phase-v--vi-anti-bot-concurrency--scale-architecture)
+- [Repository Structure](#-repository-structure)
+- [Canonical Data Schemas](#-canonical-data-schemas)
+- [Getting Started & Installation](#-getting-started--installation)
+- [Deliverables & Submission Links](#-deliverables--submission-links)
 
-```text
-graphone-ingestion/
-├── README.md               # Pipeline overview and setup documentation
-├── main.py                 # Core end-to-end Python pipeline script
-├── architecture.pdf        # Detailed 3-page system design write-up
-├── Startups.csv            # Extracted startup dataset (1,000 rows)
-├── Products.csv            # Extracted product dataset (1,000 rows)
-├── Research_Papers.csv     # Extracted research papers dataset (1,000 rows)
-├── Jobs.csv                # 24-hour fresh AI jobs
-├── News.csv                # 24-hour fresh AI news
-└── Entity_Mapping_Log.csv  # String canonicalization & matching log
+---
+
+## 🚀 Executive Summary
+
+GraphOne / FrontierAtlas builds the premier global Intelligence Graph mapping startups, founders, products, research papers, AI job postings, and real-time news signals. 
+
+This repository implements an end-to-end ingestion pipeline designed to scrape messy web sources at scale, parse unstructured inputs via resilient LLMs, deduplicate corporate aliases, and export clean, standardized datasets matching target enterprise schemas.
+
+---
+
+## 🏗 System Architecture
