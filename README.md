@@ -33,3 +33,39 @@ This repository implements an end-to-end ingestion pipeline designed to scrape m
 ---
 
 ## 🏗 System Architecture
+
+
+                            +-----------------------------------+
+                            |    Multi-Source Data Ingestion    |
+                            | (arXiv, Job Boards, News RSS)     |
+                            +-----------------+-----------------+
+                                              |
+                                              v
+                            +-----------------+-----------------+
+                            |   Async Anti-Bot Crawlers         |
+                            | (asyncio / aiohttp / Playwright)  |
+                            +-----------------+-----------------+
+                                              |
+                                              v
+                            +-----------------+-----------------+
+                            |  24h Freshness & Date Normalizer  |
+                            +-----------------+-----------------+
+                                              |
+                                              v
+                            +-----------------+-----------------+
+                            |   Multi-Tier LLM Orchestrator     |
+                            | Gemini -> Groq -> DeepSeek        |
+                            | (413 Chunking / 429 Backoff)      |
+                            +-----------------+-----------------+
+                                              |
+                                              v
+                            +-----------------+-----------------+
+                            |  Entity Resolution Engine         |
+                            | (Exact Alias + Jaro-Winkler)      |
+                            +-----------------+-----------------+
+                                              |
+                                              v
+                            +-----------------+-----------------+
+                            |  Canonical Export & Storage       |
+                            | (Google Sheets / Postgres / Graph)|
+                            +-----------------------------------+
