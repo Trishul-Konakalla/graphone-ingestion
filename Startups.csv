@@ -1,0 +1,689 @@
+schemaVersion,recordType,source.name,source.url,content.entityName,content.data.employeeCount,collectedAt
+1.0,STARTUP,YCombinator Directory,https://www.talkable.com,Curebit,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.goldbely.com,Goldbely,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.thedailymuse.com,theDailyMuse,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://zencoder.com,Zencoder,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://ginzametrics.com,GinzaMetrics,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.gazehawk.com,GazeHawk,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.bloomthat.com,Bloomthat,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.pixate.com,PIxate,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.movity.com,Movity,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.etacts.com,Etacts,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.asseta.com,Asseta,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.simplyinsured.com,SimplyInsured,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.yourmechanic.com,Your Mechanic,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://dosuperb.com,Superb (was GrubWithUs),10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://kicksend.com,Kicksend,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.lob.com,Lob,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://foodoro.com,Foodoro,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.snapjoy.com/,Snapjoy,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://wattvision.com,Wattvision,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.getgoing.com,GetGoing,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.algolia.com,Algolia,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://meteor.com,Meteor,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.hyperink.com,Hyperink,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.pagerduty.com,PagerDuty,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://paytango.com,PayTango,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.crowdmed.com,CrowdMed,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://perfectaudience.com,Perfect Audience,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://airbnb.com,AirBnb,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.heysan.com,Heysan,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.aisle50.com,Aisle50,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://cloudant.com,Cloudant,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://gocardless.com,GoCardless,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://getchute.com,chute,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.socialpicks.com,SocialPicks,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://minuum.com,Minuum,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.dotcloud.com,Dotcloud,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.justin.tv,Justin.tv,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://embed.ly,Embedly,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.genius.com/,RapGenius,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.tipjoy.com,Tipjoy,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.chirply.com,Chirply,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.estimote.com,Estimote,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.mertado.com,Mertado,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://bu.mp,Bump,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://omgpop.com,OMGPOP,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://scribd.com,Scribd,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://fundersclub.com,FundersClub,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://adgrok.com,AdGrok,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://omnisio.com,Omnisio,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://auctomatic.com,Auctomatic,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.cueup.com,Greplin,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.tryagent.com,Tagstand,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,CarWoo,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.tastemaker.com,Tastemaker,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.memsql.com,MemSQL,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://42floors.com,42floors,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.zenefits.com,Zenefits,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://rapportive.com,Rapportive,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.wakemate.com,Wakemate,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.statwing.com,Statwing,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.InstallMonetizer.com,Install Monetizer,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://parse.com,Parse,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.buildzoom.com,BuildZoom,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.teleborder.com,Teleborder,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.buxfer.com,Buxfer,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.weebly.com,Weebly,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://octopart.com,Octopart,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.disqus.com,Disqus,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://99dresses.com,99dresses,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://buttersystems.com,Butter Systems,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.xobni.com,Xobni,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://1000memories.com,1000Memories,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.firebase.com,Firebase (prev. Envolve),10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://wevorce.com,Wevorce,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.listia.com,Listia,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://gobble.com,Gobble,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://frogmetrics.com,Frogmetrics,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.circuitlab.com,CircuitLab,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://screenhero.com,Screenhero,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.drchrono.com,Dr Chrono,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.instacart.com,Instacart,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.spoonrocket.com,SpoonRocket,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.coinbase.com,Coinbase,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.boostedboards.com,BoostedBoards,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://glio.com,Glio,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.hdtradeservices.com,HD Trade Services,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://reebee.com,Reebee,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.datarank.com,DataRank,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://floobits.com,Floobits,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://notifo.com,Notifo,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.comprehend.com,Comprehend Systems,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.rocketrip.com,Rocketrip,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.lawdingo.com,Lawdingo,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.aerofs.com,AeroFS,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://circuithub.com,Circuithub,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://airware.com,Airware,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://buttercoin.com,Buttercoin,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.freshplum.com,FreshPlum,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://posterous.com,Posterous,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://opzi.com,Opzi,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.playturf.net,Kirkland North,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.trustegg.com,TrustEgg,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://amicushq.com,Amicus,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.mobileworks.com,MobileWorks,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://panoramaed.com,Panorama Education,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.bufferbox.com,BufferBox,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.ark.com,Ark,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://fanvibe.com,FanPulse,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.leftronic.com,Leftronic,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://lanyrd.com,Lanyrd,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://crowdbooster.com,Crowdbooster,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://instantcab.com,InstantCab,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.zenpayroll.com,ZenPayroll,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://dailybooth.com,DailyBooth,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://origami.com,EveryMe,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.mixpanel.com,Mixpanel,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://ambition.com,Ambition,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://socialcam.com,SocialCam,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.ownlocal.com,SeeingInteractive,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://elacarte.com,E la Carte,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.kamcord.com,Kamcord,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://mixrank.com,MixRank,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://orderaheadapp.com,OrderAhead,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.cardpool.com,CardPool,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://flightfox.com,FlightFox,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://refer.ly,Refer.ly,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.Homejoy.com,HomeJoy,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.fivestars.com,Five Stars,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://sendhub.com,SendHub,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.justspotted.com,Scoopler,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://anyperk.com,Anyperk,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://thalmic.com,Thalmic Labs (Myo),10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.amulyte.com,Amulyte,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://segment.io,Segment.io,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.smartasset.com/welcome,SmartAsset,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://cloudkick.com,Cloudkick,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://couple.me,Pair,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://adioso.com,Adioso,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://optimizely.com,Optimizely,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://swiftype.com,Swiftype,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.getpebble.com,Pebble Technology,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.custora.com,Custora,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.crocodoc.com,Crocodoc,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://watsi.org,Watsi,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://urx.com,URX,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://scienceexchange.com,Science Exchange,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://9gag.com,9GAG,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.heyzap.com,Heyzap,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.stypi.com,Stypi,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.tapengage.com,TapEngage,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://www.keychainlogistics.com,Keychain Logistics,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.wepay.com,WePay,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.matterport.com,MatterPort,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.heroku.com,Heroku,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.quartzy.com,Quartzy,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.500Friends.com,500Friends,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.hipmunk.com,Hipmunk,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.eligibleapi.com,Eligible,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://crohnology.com,Healthy Labs,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://swipegood.com,SwipeGood,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://m.vid.ly,Vidly / Fliggo,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://verbling.com,Verbling,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.soundfocus.com,SoundFocus,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://heapanalytics.com,Heap Analytics,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://indinero.com,Indinero,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Webmynd,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://flotype.com,NowJS,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.remail.com,reMail,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://snaptalent.com,Snaptalent,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://regalii.com,Regalii,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.prizeo.com,Prizeo,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://coreos.com,CoreOS,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.clustrix.com,Clustrix,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Tutorspree,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.dropbox.com,Dropbox,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://stripe.com,Stripe,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://appjet.com,Appjet,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.earbits.com,Earbits,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://vidyard.com,Vidyard,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://flutterapp.com,Flutter,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.viacycle.com,ViaCycle,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.yougotlistings.com,YouGotListings,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.sellstage.com,SellStage (now Videopixie),10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://padlet.com,Padlet,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://posmetrics.com,Posmetrics,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://joingrouper.com,Grouper,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.humblebundle.com,Humble Bundle,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.scoutzie.com,Scoutzie,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://familyleaf.com,FamilyLeaf,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://svbtle.com,Svbtle,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.tilt.com,Crowdtilt,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://minomonsters.com,MinoMonsters,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.doublerecall.com,DoubleRecall,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://mongohq.com,MongoHQ,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.easypost.com,EasyPost,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.iCracked.com,iCracked,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://lockitron.com,Lockitron,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.zesty.co.uk,Zesty,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.flightcaster.com,Flightcaster,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.zecter.com,Zecter (Versionate),10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.submittable.com,Submittable,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://citusdata.com,Citus Data,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.loom.com,Loom (prev. PopSet),10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://songkick.com,Songkick,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://flightcar.com,FlightCar,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://interviewstreet.com,InterviewStreet,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://pov.io,Povio,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://apptimize.com,Apptimize,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.webflow.com,Webflow,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.survata.com,Survata,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://swapbox.com,SwapBox,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.hireart.com,HireArt,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.backtype.com,Backtype,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.experiment.com,Experiment (prev. Microryza),10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://siftscience.com,Sift Science,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.codecademy.com,Codecademy,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://canopylabs.com,Canopy Labs,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.InboxQ.com,Answerly.com,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://upverter.com,Upverter,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.rethinkdb.com,RethinkDB,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://tsumobi.com,Tsumobi,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://280north.com,280 North,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.42technologies.com,42,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://140fire.com,140bets,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.6sense.com,6sense,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,7 Cups of Tea,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://8aweek.com,8aweek,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://abacus.com,Abacus,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.acunote.com,Acunote,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.airbriteinc.com,Airbrite,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.getairhelp.com,AirHelp,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.airpair.com,AirPair,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.anylistapp.com,AnyLeaf,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.anyvite.com,Anyvite,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://jellyfishart.com,AnyVivo,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.anywhere.fm,Anywhere.fm,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://appharbor.com,AppHarbor,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.aptdeco.com,AptDeco,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://www.aptible.com,Aptible,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,AudioBeta,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Automatic,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.awesomehighlighter.com,AwesomeHighlighter,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,B2Brev,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.backlift.com,Backlift,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://backpackbang.com/home,Backpack,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://getbannerman.com,Bannerman,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://ninite.com,BaseShield,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.bayesimpact.org,Bayes Impact,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.beaconreader.com,Beacon,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.thisisbeep.com,Beep,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.beetailer.com,Beetailer,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.bellabeat.com,Bellabeat,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://bigcalc.com,BigCalc,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://bikanta.com/,Bikanta,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.biographicon.com,Biographicon,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.bitaccess.co,BitAccess,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://bitnami.com,BitNami,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://blockscore.com,BlockScore,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.boostable.com,Boostable,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://bountii.com,Bountii,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.browsarity.com,Browsarity,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Brushes,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://gobushido.com,Bushido,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://cambly.com,Cambly,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.camperoo.com,Camperoo,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Can'tWait,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://caremessage.org,CareMessage,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.carlypso.com,Carlypso,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://carsabi.com,Carsabi,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.casetext.com,Casetext,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.trycaviar.com,Caviar,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.chatterous.com,Chatterous,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://checkr.io/,Checkr,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.chromaom.com,ChromaOm,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.circularapp.com,Circular,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://cleartax.in/,ClearTax,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.clerky.com,Clerky,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://clickfacts.com,ClickFacts,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.clickpass.com,Clickpass,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://clutch.io,Clutch.io,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://co2stats.com,CO2Stats,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Coco Controller,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://codecombat.com,CodeCombat,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://codenow.org,CodeNow,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://coderwall.com,Coderwall,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.collections.me,Collections,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.contestmachine.com,ContestMachine,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://craftcoffee.com,Craft Coffee,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Crowdery,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.getcruise.com,Cruise,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.cryptoseal.com,Cryptoseal,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Cube,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.datamarketplace.com,datamarketplace,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.datanitro.com,DataNitro,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://dealupa.com,Dealupa,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.debteye.com,DebtEye,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://deluux.com,Deluux,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://joindiaspora.com,Diaspora,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.directededge.com,DirectedEdge,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://divvyshot.com,Divvyshot,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://doblet.com,Doblet,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Double Robotics,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://draftin.com,Draft,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://draftmix.com,Draftmix,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://dreamforge.me,Dreamforge,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://easel.io,Easel,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.echodio.com,Echodio,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.embedster.com,Embedster,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://errplane.com,Errplane,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://eventjoy.com,Eventjoy,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://everyart.com,EveryArt,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://everyday.me,Everyday.me,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://iamexec.com,Exec,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.dakotaplainsfabrication.com,Fabricly,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://fanchatter.com,FanChatter,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://fanhero.com,FanHero,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.fathomdb.com,FathomDB,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.textpayme.com,Firecrawl,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.fivetran.com,Fivetran,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://getfixed.me,Fixed,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://flagr.com,Flagr,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://flynn.io/,Flynn,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://flypadapp.com,Flypad,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.flytenow.com,Flytenow,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.framed.io,Framed Data,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://fuzzwich.com,Fuzzwich,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.gamador.com,Gamador,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://gantto.com,Gantto,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.gbatteries.com,Gbatteries,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.giftrocket.com,Giftrocket,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://ginkgobioworks.com/,Ginko Bioworks,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://givespark.com,Givespark,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.glassmap.com,Glassmap,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.glowingplant.com,Glowing Plant,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://gocomm.com,GoComm,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://graffitigeo.com,GraffitiGeo,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Graft Concepts,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.greentoe.com,Greentoe,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.workwithgrid.com,Grid,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://convore.com,Grove,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.hackermeter.com,Hackermeter,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://hackpad.com,HackPad,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.fitfu.com,HasFu,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://hauteday.com/,HauteDay,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.helionenergy.com/,Helion Energy,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.hellofax.com,HelloFax,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.himom.me,HiMom,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.hiptype.com,HipType,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.hire-hive.com/,HireHive,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://hoverchat.com,HoverChat,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.hubchilla.com,Hubchilla,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://letshum.com,Hum,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://tumult.com/hype,Hype,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,I Move You,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.ididwork.com,Ididwork,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://ijigg.com,iJigg,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://imgfave.com,imgfave,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.immunityproject.org,Immunity Project,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.impraise.com,Impraise,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://infogami.co.uk,Infogami,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.infoharmoni.com,Infoharmoni,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://inklingmarkets.com,InklingMarkets,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Insoshi,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.instantq.com,InstantQ,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Interstate,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://ixiplay.com,ixi-play,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.jamglue.com,JamGlue,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://joberator.com,Joberator,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Jobpic,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.jobspice.com,Jobspice,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,JumpChat,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://kaleidoscope.co.uk,Kaleidoscope,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://kiko.com,Kiko,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.kimonolabs.com,Kimono,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://kippt.com,Kippt,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.kivo.com,Kivo,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.knowmia.com,Knowmia,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.Koduco.com,Koduco,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.kytephone.com,Kyte,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.launchhear.com,Launchhear,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://launchpadtoys.com,Launchpad Toys,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://lawnlove.com/,Lawn Love,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Le Tote,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://leaky.com,Leaky,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.leanstartupmachine.com/enterprise-lean-startup,LeanMarket,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.lighttable.com,LightTable,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://like.fm,Like.fm,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,LikeBetter,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.lingt.com,Lingt,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.localon.com,LocalOn,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.lollipuff.com,Lollipuff,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://lumoid.com,Lumoid,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.lvl6.com,LVL6,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.machinezone.com,Machine Zone (prev Addmired),10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://madesolid.com,MadeSolid,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.makegameswith.us,MakeGamesWithUs,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://marketbrief.com,MarketBrief,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.goyaka.com,Markupwand,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://medigram.com/,Medigram,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.medisas.com,Medisas,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.meetcast.com,Meetcast,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,MeetingMix,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://meetings.io,Meetings.io,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.meldium.com,Meldium,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Memamp,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://messageparty.com,MessageParty,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://microeval.com,MicroEval,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://luma.io,Midnox,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://mightyquiz.com,MightyQuiz,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://minefold.com,MineFold,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://mixwit.com,Mixwit,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://moki.tv,Moki.TV,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://moveloot.com,Move Loot,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://mtailor.com,MTailor,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://mthsense.com,Mth Sense,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.munchonme.com,Munch On Me,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.nambii.com,Nambii,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://natero.com,Natero,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.naytev.com,Naytev,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.neptune.io,Neptune.io,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://newsblur.com,Newsblur,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.newslabs.com,NewsLabs,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://nextcaller.com,Next Caller,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.nightingaleapp.com,Nightingale,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.noorahealth.org,Noora Health,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://ohlife.com,OhLife,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.olark.com,Olark,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,One Codex,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.1deg.org,One Degree,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://onename.io/,Onename.io,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.opez.com,Opez,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.orankl.com,Orankl,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://jerpix.com,OrbsCCG,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://pagelever.com,PageLever,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.paperlinks.com,Paperlinks,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.parakey.com,Parakey,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://paralleluniverse.co,Parallel Universe,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://parenthoods.co/,Parenthoods,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.peopleandpages.com,People and Pages,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://pervices.com,Per Vices,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://welcome.persistiq.com/,PersistIQ,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://picnichealth.com/,PicnicHealth,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://picplum.com,PicPlum,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://picurio.com,Picurio,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.picwing.com,Picwing,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.piinpoint.com,Piinpoint,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.pixelapse.com,Pixelapse,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.plivo.com,Plivo,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://plurchase.com,Plurchase,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://pocketfungames.com,PocketFunGames,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.polleverywhere.com,PollEverywhere,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,PollGround,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.popcuts.com,PopCuts,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Precognate,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://getprim.com,Prim,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.producthunt.com,ProductHunt,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://profig.com,Profig,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Propable,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.proxino.com,Proxino,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.pushbullet.com,Pushbullet,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.quicklychat.com,QuicklyChat,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://www.rainforestqa.com/,Rainforest QA,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://reble.fm,Reble,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://reddit.com,Reddit,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.reelsurfer.com,ReelSurfer,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://registrylove.com,RegistryLove,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.rentmetrics.com,Rent.io,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.renthop.com,RentHop,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.rentobo.com,Rentobo,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.rescale.com,Rescale,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Rickshaw,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.rigetti.com/,Rigetti Computing,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://roost.me/,Roost,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.screenleap.com,ScreenLeap,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.semantics3.com,Semantics3,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://sendoid.com,Sendoid,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://sendwithus.com,Sendwithus,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.senic.com,Senic,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://shiftpayments.com/,Shift Payments,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.shipbob.com/,ShipBob,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://shoobs.com,Shoobs,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://UseShout.com,Shout,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Shoutfit,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Simmery,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.simperium.com,Simperium,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.simplelegal.com,SimpleLegal,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://sketchdeck.com,SketchDeck,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.skysheet.com,Skysheet,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,SlapVid,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.slicedinvesting.com/,Sliced Investing,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://slinkset.com,Slinkset,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.snipd.com,Snipd,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.socialbrowse.com,Socialbrowse,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://socialmoth.com,SocialMoth,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://sonalight.com,Sonalight,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.spinpunch.com,SpinPunch,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://splashup.com,Splashup,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.partnered.com,Sponsorfied,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://stacklead.com,StackLead,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://standardtreasury.com,Standard Treasury,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.startuply.com,Startuply,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://greekstreak.com,Streak.com,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.strike.com.au,Strikingly,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.studyedge.com,StudyEdge,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://stylelend.com,Style Lend,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://thestyleup.com,StyleUp,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://guesty.com,Superhost,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Swagapalooza,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.swishme.com,Swish,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.talkbin.com,TalkBin,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Talkito,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://twitter.com/nowbox,TapIn,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://taplytics.com,Taplytics,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://tapzilla.com,Tapzilla,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://teevox.com,Teevox,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://tellfi.com,TellFi,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.terascore.com,Terascore,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.terravion.com,TerrAvion,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://thedatingring.com,The Dating Ring,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.frid.ge,The Fridge,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://www.shoptheorem.com/,Theorem,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://thesixtyone.com,TheSixtyOne,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Thinkature,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://thread.com,Thread,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://threadable.com,Threadable,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://www.ticketlabs.ca/,TicketLabs,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://ticketstumbler.com,TicketStumbler,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.tiempoapp.com/,Tiempo,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://talkray.com,TiKL,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://tomoguides.com,TomoGuides,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.toutpost.com,Toutpost,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.facebook.com/PitbullTurkishPage4,Tracks.by,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://tradeblock.com,TradeBlock,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.truevault.com,TrueVault,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.tuxebo.co.uk,Tuxebo,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://tweetflow.com,Tweetflow,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://twotap.com,Two Tap,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://ubiome.com,uBiome,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.unbabel.com,Unbabel,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.upowertech.com,UPower,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,UrbanTakeover,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.userfox.com,Userfox,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.vatler.com,Vatler,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.vidpresso.com,Vidpresso,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,View3,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.virtualmin.com,VirtualMin,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.vizeralabs.com/,Vizera Labs,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.voicegem.com,VoiceGem,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.walksource.com,Walksource,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://watchsend.com,Watchsend,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.getweave.com,Weave,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://weilos.com,Weilos,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://www.storyworth.com,WhereBerry,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://Whereoscope.com,Whereoscope,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.whitenoisenetworks.com,Whitenoise Networks,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.wireover.com,WireOver,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://wit.ai,Wit.ai,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://workflowy.com,Workflowy,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://writewith.com,Writewith,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://wufoo.com,Wufoo,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://wundrbar.com,Wundrbar,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.getyardsale.com,Yardsale,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S08 Stealth #24,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S09 Stealth - #24,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S09 Stealth - #25,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S10 Stealth - #35,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S10 Stealth - #36,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S11 Stealth - #57,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S11 Stealth - #58,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S11 Stealth - #59,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S11 Stealth - #60,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S11 Stealth - #61,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S11 Stealth - #62,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S11 Stealth - #63,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S12 Stealth - #72,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S12 Stealth - #73,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S12 Stealth - #74,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S12 Stealth - #75,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S12 Stealth - #76,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S12 Stealth - #77,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S12 Stealth - #78,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S12 Stealth - #79,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S12 Stealth - #80,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S12 Stealth - #81,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S12 Stealth - #82,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S12 Stealth - #83,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S12 Stealth - #84,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S13 Stealth - #48,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S13 Stealth - #49,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S13 Stealth - #50,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S13 Stealth - #51,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S13 Stealth - #52,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC S13 Stealth - #53,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W11 Stealth - #44,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W11 Stealth - #45,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W12 Stealth - #56,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W12 Stealth - #57,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W12 Stealth - #58,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W12 Stealth - #59,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W12 Stealth - #60,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W12 Stealth - #61,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W12 Stealth - #62,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W12 Stealth - #63,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W12 Stealth - #64,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W12 Stealth - #65,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W13 Stealth - #38,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W13 Stealth - #39,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W13 Stealth - #40,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W13 Stealth - #41,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W13 Stealth - #42,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W13 Stealth - #43,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W13 Stealth - #44,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W13 Stealth - #45,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W13 Stealth - #46,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W13 Stealth - #47,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #58,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #59,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #60,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #61,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #62,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #63,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #64,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #65,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #66,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #67,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #68,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #69,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #70,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #71,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #72,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #73,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #74,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,YC W14 Stealth - #75,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.youlicit.com,Youlicit,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.projectwedding.com,YouOS,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://yumdots.com,YumDots,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://zen99.co/,Zen99,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://zenamins.com/,Zenamins,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://zenedy.com,Zenedy,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Zenter,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.zidisha.org,Zidisha,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://zigfu.com,Zigfu,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Zinc,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,nan,Zip Phone,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://zowpow.com,ZowPow,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://shopular.com,Shopular,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://voxli.com,Voxli,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://Teespring.com,Teespring,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.amiato.com,Amiato,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://filepicker.io,Filepicker.io,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://twitter.com/nowbox,Nowmov,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://us.memebox.com,Memebox,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.hellochair.com,Adpinion,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.realcrowd.com,RealCrowd,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.virool.com,Virool,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://zapier.com,Zapier,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.bop.fm,Bop.fm,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.spaceglasses.com,Meta Space Glasses,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://onemonth.com,One Month Rails,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.statuspage.io,StatusPage,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.wefunder.com,WeFunder,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://shoptiques.com,Shoptiques,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://farmlogs.com,FarmLogs,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.zaranga.com,Zaranga,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://www.readyforzero.com,ReadyForZero,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://chartio.com,Chart.io,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.HighlightCam.com,HighlightCam,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://truelinkcard.com,True Link Financial,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.doordash.com,DoorDash,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.zillabyte.com,Zillabyte,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://priceonomics.com,Priceonomics,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://rescuetime.com,RescueTime,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.loopt.com,Loopt,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://siasto.com,Siasto,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.taskforceapp.com/,Taskforce,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.agilemd.com,AgileDiagnosis,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://plangrid.com,PlanGrid,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.futureadvisor.com,FutureAdvisor,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://letsembark.com,Embark,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.vayable.com,Vayable,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.vastrm.com,Vastrm,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://noteleaf.com,Noteleaf,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://snipshot.com,Snipshot,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.mailgun.net,MailGun,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://www.balancedpayments.com,Balanced Payments,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://brid.ge/,Bridge,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,https://clever.com,Clever,10,2026-08-13T00:00:00Z
+1.0,STARTUP,YCombinator Directory,http://ZeroCater.com,ZeroCater,10,2026-08-13T00:00:00Z

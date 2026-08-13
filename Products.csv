@@ -1,0 +1,689 @@
+schemaVersion,recordType,source.name,source.url,content.startupName,content.pricingModel,collectedAt
+1.0,PRODUCT,YCombinator Directory,https://www.talkable.com,Curebit,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.goldbely.com,Goldbely,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.thedailymuse.com,theDailyMuse,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://zencoder.com,Zencoder,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://ginzametrics.com,GinzaMetrics,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.gazehawk.com,GazeHawk,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.bloomthat.com,Bloomthat,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.pixate.com,PIxate,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.movity.com,Movity,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.etacts.com,Etacts,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.asseta.com,Asseta,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.simplyinsured.com,SimplyInsured,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.yourmechanic.com,Your Mechanic,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://dosuperb.com,Superb (was GrubWithUs),PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://kicksend.com,Kicksend,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.lob.com,Lob,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://foodoro.com,Foodoro,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.snapjoy.com/,Snapjoy,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://wattvision.com,Wattvision,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.getgoing.com,GetGoing,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.algolia.com,Algolia,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://meteor.com,Meteor,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.hyperink.com,Hyperink,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.pagerduty.com,PagerDuty,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://paytango.com,PayTango,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.crowdmed.com,CrowdMed,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://perfectaudience.com,Perfect Audience,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://airbnb.com,AirBnb,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.heysan.com,Heysan,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.aisle50.com,Aisle50,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://cloudant.com,Cloudant,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://gocardless.com,GoCardless,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://getchute.com,chute,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.socialpicks.com,SocialPicks,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://minuum.com,Minuum,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.dotcloud.com,Dotcloud,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.justin.tv,Justin.tv,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://embed.ly,Embedly,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.genius.com/,RapGenius,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.tipjoy.com,Tipjoy,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.chirply.com,Chirply,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.estimote.com,Estimote,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.mertado.com,Mertado,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://bu.mp,Bump,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://omgpop.com,OMGPOP,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://scribd.com,Scribd,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://fundersclub.com,FundersClub,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://adgrok.com,AdGrok,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://omnisio.com,Omnisio,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://auctomatic.com,Auctomatic,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.cueup.com,Greplin,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.tryagent.com,Tagstand,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,CarWoo,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.tastemaker.com,Tastemaker,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.memsql.com,MemSQL,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://42floors.com,42floors,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.zenefits.com,Zenefits,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://rapportive.com,Rapportive,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.wakemate.com,Wakemate,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.statwing.com,Statwing,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.InstallMonetizer.com,Install Monetizer,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://parse.com,Parse,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.buildzoom.com,BuildZoom,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.teleborder.com,Teleborder,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.buxfer.com,Buxfer,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.weebly.com,Weebly,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://octopart.com,Octopart,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.disqus.com,Disqus,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://99dresses.com,99dresses,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://buttersystems.com,Butter Systems,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.xobni.com,Xobni,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://1000memories.com,1000Memories,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.firebase.com,Firebase (prev. Envolve),PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://wevorce.com,Wevorce,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.listia.com,Listia,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://gobble.com,Gobble,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://frogmetrics.com,Frogmetrics,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.circuitlab.com,CircuitLab,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://screenhero.com,Screenhero,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.drchrono.com,Dr Chrono,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.instacart.com,Instacart,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.spoonrocket.com,SpoonRocket,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.coinbase.com,Coinbase,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.boostedboards.com,BoostedBoards,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://glio.com,Glio,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.hdtradeservices.com,HD Trade Services,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://reebee.com,Reebee,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.datarank.com,DataRank,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://floobits.com,Floobits,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://notifo.com,Notifo,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.comprehend.com,Comprehend Systems,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.rocketrip.com,Rocketrip,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.lawdingo.com,Lawdingo,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.aerofs.com,AeroFS,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://circuithub.com,Circuithub,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://airware.com,Airware,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://buttercoin.com,Buttercoin,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.freshplum.com,FreshPlum,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://posterous.com,Posterous,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://opzi.com,Opzi,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.playturf.net,Kirkland North,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.trustegg.com,TrustEgg,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://amicushq.com,Amicus,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.mobileworks.com,MobileWorks,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://panoramaed.com,Panorama Education,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.bufferbox.com,BufferBox,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.ark.com,Ark,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://fanvibe.com,FanPulse,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.leftronic.com,Leftronic,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://lanyrd.com,Lanyrd,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://crowdbooster.com,Crowdbooster,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://instantcab.com,InstantCab,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.zenpayroll.com,ZenPayroll,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://dailybooth.com,DailyBooth,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://origami.com,EveryMe,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.mixpanel.com,Mixpanel,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://ambition.com,Ambition,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://socialcam.com,SocialCam,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.ownlocal.com,SeeingInteractive,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://elacarte.com,E la Carte,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.kamcord.com,Kamcord,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://mixrank.com,MixRank,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://orderaheadapp.com,OrderAhead,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.cardpool.com,CardPool,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://flightfox.com,FlightFox,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://refer.ly,Refer.ly,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.Homejoy.com,HomeJoy,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.fivestars.com,Five Stars,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://sendhub.com,SendHub,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.justspotted.com,Scoopler,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://anyperk.com,Anyperk,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://thalmic.com,Thalmic Labs (Myo),PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.amulyte.com,Amulyte,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://segment.io,Segment.io,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.smartasset.com/welcome,SmartAsset,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://cloudkick.com,Cloudkick,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://couple.me,Pair,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://adioso.com,Adioso,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://optimizely.com,Optimizely,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://swiftype.com,Swiftype,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.getpebble.com,Pebble Technology,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.custora.com,Custora,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.crocodoc.com,Crocodoc,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://watsi.org,Watsi,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://urx.com,URX,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://scienceexchange.com,Science Exchange,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://9gag.com,9GAG,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.heyzap.com,Heyzap,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.stypi.com,Stypi,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.tapengage.com,TapEngage,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://www.keychainlogistics.com,Keychain Logistics,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.wepay.com,WePay,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.matterport.com,MatterPort,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.heroku.com,Heroku,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.quartzy.com,Quartzy,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.500Friends.com,500Friends,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.hipmunk.com,Hipmunk,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.eligibleapi.com,Eligible,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://crohnology.com,Healthy Labs,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://swipegood.com,SwipeGood,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://m.vid.ly,Vidly / Fliggo,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://verbling.com,Verbling,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.soundfocus.com,SoundFocus,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://heapanalytics.com,Heap Analytics,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://indinero.com,Indinero,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Webmynd,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://flotype.com,NowJS,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.remail.com,reMail,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://snaptalent.com,Snaptalent,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://regalii.com,Regalii,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.prizeo.com,Prizeo,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://coreos.com,CoreOS,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.clustrix.com,Clustrix,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Tutorspree,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.dropbox.com,Dropbox,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://stripe.com,Stripe,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://appjet.com,Appjet,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.earbits.com,Earbits,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://vidyard.com,Vidyard,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://flutterapp.com,Flutter,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.viacycle.com,ViaCycle,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.yougotlistings.com,YouGotListings,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.sellstage.com,SellStage (now Videopixie),PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://padlet.com,Padlet,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://posmetrics.com,Posmetrics,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://joingrouper.com,Grouper,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.humblebundle.com,Humble Bundle,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.scoutzie.com,Scoutzie,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://familyleaf.com,FamilyLeaf,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://svbtle.com,Svbtle,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.tilt.com,Crowdtilt,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://minomonsters.com,MinoMonsters,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.doublerecall.com,DoubleRecall,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://mongohq.com,MongoHQ,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.easypost.com,EasyPost,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.iCracked.com,iCracked,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://lockitron.com,Lockitron,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.zesty.co.uk,Zesty,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.flightcaster.com,Flightcaster,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.zecter.com,Zecter (Versionate),PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.submittable.com,Submittable,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://citusdata.com,Citus Data,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.loom.com,Loom (prev. PopSet),PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://songkick.com,Songkick,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://flightcar.com,FlightCar,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://interviewstreet.com,InterviewStreet,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://pov.io,Povio,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://apptimize.com,Apptimize,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.webflow.com,Webflow,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.survata.com,Survata,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://swapbox.com,SwapBox,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.hireart.com,HireArt,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.backtype.com,Backtype,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.experiment.com,Experiment (prev. Microryza),PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://siftscience.com,Sift Science,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.codecademy.com,Codecademy,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://canopylabs.com,Canopy Labs,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.InboxQ.com,Answerly.com,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://upverter.com,Upverter,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.rethinkdb.com,RethinkDB,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://tsumobi.com,Tsumobi,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://280north.com,280 North,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.42technologies.com,42,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://140fire.com,140bets,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.6sense.com,6sense,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,7 Cups of Tea,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://8aweek.com,8aweek,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://abacus.com,Abacus,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.acunote.com,Acunote,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.airbriteinc.com,Airbrite,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.getairhelp.com,AirHelp,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.airpair.com,AirPair,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.anylistapp.com,AnyLeaf,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.anyvite.com,Anyvite,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://jellyfishart.com,AnyVivo,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.anywhere.fm,Anywhere.fm,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://appharbor.com,AppHarbor,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.aptdeco.com,AptDeco,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://www.aptible.com,Aptible,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,AudioBeta,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Automatic,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.awesomehighlighter.com,AwesomeHighlighter,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,B2Brev,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.backlift.com,Backlift,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://backpackbang.com/home,Backpack,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://getbannerman.com,Bannerman,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://ninite.com,BaseShield,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.bayesimpact.org,Bayes Impact,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.beaconreader.com,Beacon,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.thisisbeep.com,Beep,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.beetailer.com,Beetailer,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.bellabeat.com,Bellabeat,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://bigcalc.com,BigCalc,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://bikanta.com/,Bikanta,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.biographicon.com,Biographicon,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.bitaccess.co,BitAccess,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://bitnami.com,BitNami,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://blockscore.com,BlockScore,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.boostable.com,Boostable,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://bountii.com,Bountii,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.browsarity.com,Browsarity,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Brushes,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://gobushido.com,Bushido,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://cambly.com,Cambly,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.camperoo.com,Camperoo,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Can'tWait,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://caremessage.org,CareMessage,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.carlypso.com,Carlypso,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://carsabi.com,Carsabi,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.casetext.com,Casetext,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.trycaviar.com,Caviar,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.chatterous.com,Chatterous,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://checkr.io/,Checkr,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.chromaom.com,ChromaOm,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.circularapp.com,Circular,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://cleartax.in/,ClearTax,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.clerky.com,Clerky,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://clickfacts.com,ClickFacts,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.clickpass.com,Clickpass,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://clutch.io,Clutch.io,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://co2stats.com,CO2Stats,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Coco Controller,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://codecombat.com,CodeCombat,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://codenow.org,CodeNow,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://coderwall.com,Coderwall,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.collections.me,Collections,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.contestmachine.com,ContestMachine,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://craftcoffee.com,Craft Coffee,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Crowdery,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.getcruise.com,Cruise,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.cryptoseal.com,Cryptoseal,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Cube,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.datamarketplace.com,datamarketplace,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.datanitro.com,DataNitro,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://dealupa.com,Dealupa,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.debteye.com,DebtEye,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://deluux.com,Deluux,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://joindiaspora.com,Diaspora,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.directededge.com,DirectedEdge,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://divvyshot.com,Divvyshot,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://doblet.com,Doblet,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Double Robotics,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://draftin.com,Draft,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://draftmix.com,Draftmix,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://dreamforge.me,Dreamforge,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://easel.io,Easel,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.echodio.com,Echodio,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.embedster.com,Embedster,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://errplane.com,Errplane,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://eventjoy.com,Eventjoy,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://everyart.com,EveryArt,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://everyday.me,Everyday.me,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://iamexec.com,Exec,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.dakotaplainsfabrication.com,Fabricly,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://fanchatter.com,FanChatter,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://fanhero.com,FanHero,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.fathomdb.com,FathomDB,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.textpayme.com,Firecrawl,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.fivetran.com,Fivetran,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://getfixed.me,Fixed,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://flagr.com,Flagr,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://flynn.io/,Flynn,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://flypadapp.com,Flypad,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.flytenow.com,Flytenow,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.framed.io,Framed Data,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://fuzzwich.com,Fuzzwich,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.gamador.com,Gamador,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://gantto.com,Gantto,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.gbatteries.com,Gbatteries,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.giftrocket.com,Giftrocket,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://ginkgobioworks.com/,Ginko Bioworks,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://givespark.com,Givespark,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.glassmap.com,Glassmap,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.glowingplant.com,Glowing Plant,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://gocomm.com,GoComm,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://graffitigeo.com,GraffitiGeo,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Graft Concepts,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.greentoe.com,Greentoe,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.workwithgrid.com,Grid,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://convore.com,Grove,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.hackermeter.com,Hackermeter,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://hackpad.com,HackPad,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.fitfu.com,HasFu,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://hauteday.com/,HauteDay,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.helionenergy.com/,Helion Energy,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.hellofax.com,HelloFax,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.himom.me,HiMom,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.hiptype.com,HipType,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.hire-hive.com/,HireHive,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://hoverchat.com,HoverChat,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.hubchilla.com,Hubchilla,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://letshum.com,Hum,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://tumult.com/hype,Hype,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,I Move You,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.ididwork.com,Ididwork,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://ijigg.com,iJigg,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://imgfave.com,imgfave,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.immunityproject.org,Immunity Project,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.impraise.com,Impraise,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://infogami.co.uk,Infogami,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.infoharmoni.com,Infoharmoni,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://inklingmarkets.com,InklingMarkets,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Insoshi,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.instantq.com,InstantQ,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Interstate,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://ixiplay.com,ixi-play,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.jamglue.com,JamGlue,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://joberator.com,Joberator,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Jobpic,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.jobspice.com,Jobspice,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,JumpChat,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://kaleidoscope.co.uk,Kaleidoscope,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://kiko.com,Kiko,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.kimonolabs.com,Kimono,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://kippt.com,Kippt,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.kivo.com,Kivo,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.knowmia.com,Knowmia,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.Koduco.com,Koduco,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.kytephone.com,Kyte,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.launchhear.com,Launchhear,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://launchpadtoys.com,Launchpad Toys,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://lawnlove.com/,Lawn Love,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Le Tote,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://leaky.com,Leaky,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.leanstartupmachine.com/enterprise-lean-startup,LeanMarket,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.lighttable.com,LightTable,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://like.fm,Like.fm,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,LikeBetter,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.lingt.com,Lingt,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.localon.com,LocalOn,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.lollipuff.com,Lollipuff,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://lumoid.com,Lumoid,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.lvl6.com,LVL6,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.machinezone.com,Machine Zone (prev Addmired),PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://madesolid.com,MadeSolid,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.makegameswith.us,MakeGamesWithUs,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://marketbrief.com,MarketBrief,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.goyaka.com,Markupwand,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://medigram.com/,Medigram,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.medisas.com,Medisas,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.meetcast.com,Meetcast,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,MeetingMix,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://meetings.io,Meetings.io,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.meldium.com,Meldium,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Memamp,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://messageparty.com,MessageParty,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://microeval.com,MicroEval,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://luma.io,Midnox,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://mightyquiz.com,MightyQuiz,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://minefold.com,MineFold,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://mixwit.com,Mixwit,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://moki.tv,Moki.TV,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://moveloot.com,Move Loot,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://mtailor.com,MTailor,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://mthsense.com,Mth Sense,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.munchonme.com,Munch On Me,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.nambii.com,Nambii,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://natero.com,Natero,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.naytev.com,Naytev,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.neptune.io,Neptune.io,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://newsblur.com,Newsblur,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.newslabs.com,NewsLabs,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://nextcaller.com,Next Caller,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.nightingaleapp.com,Nightingale,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.noorahealth.org,Noora Health,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://ohlife.com,OhLife,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.olark.com,Olark,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,One Codex,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.1deg.org,One Degree,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://onename.io/,Onename.io,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.opez.com,Opez,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.orankl.com,Orankl,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://jerpix.com,OrbsCCG,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://pagelever.com,PageLever,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.paperlinks.com,Paperlinks,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.parakey.com,Parakey,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://paralleluniverse.co,Parallel Universe,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://parenthoods.co/,Parenthoods,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.peopleandpages.com,People and Pages,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://pervices.com,Per Vices,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://welcome.persistiq.com/,PersistIQ,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://picnichealth.com/,PicnicHealth,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://picplum.com,PicPlum,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://picurio.com,Picurio,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.picwing.com,Picwing,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.piinpoint.com,Piinpoint,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.pixelapse.com,Pixelapse,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.plivo.com,Plivo,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://plurchase.com,Plurchase,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://pocketfungames.com,PocketFunGames,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.polleverywhere.com,PollEverywhere,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,PollGround,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.popcuts.com,PopCuts,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Precognate,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://getprim.com,Prim,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.producthunt.com,ProductHunt,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://profig.com,Profig,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Propable,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.proxino.com,Proxino,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.pushbullet.com,Pushbullet,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.quicklychat.com,QuicklyChat,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://www.rainforestqa.com/,Rainforest QA,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://reble.fm,Reble,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://reddit.com,Reddit,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.reelsurfer.com,ReelSurfer,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://registrylove.com,RegistryLove,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.rentmetrics.com,Rent.io,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.renthop.com,RentHop,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.rentobo.com,Rentobo,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.rescale.com,Rescale,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Rickshaw,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.rigetti.com/,Rigetti Computing,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://roost.me/,Roost,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.screenleap.com,ScreenLeap,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.semantics3.com,Semantics3,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://sendoid.com,Sendoid,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://sendwithus.com,Sendwithus,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.senic.com,Senic,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://shiftpayments.com/,Shift Payments,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.shipbob.com/,ShipBob,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://shoobs.com,Shoobs,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://UseShout.com,Shout,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Shoutfit,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Simmery,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.simperium.com,Simperium,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.simplelegal.com,SimpleLegal,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://sketchdeck.com,SketchDeck,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.skysheet.com,Skysheet,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,SlapVid,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.slicedinvesting.com/,Sliced Investing,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://slinkset.com,Slinkset,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.snipd.com,Snipd,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.socialbrowse.com,Socialbrowse,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://socialmoth.com,SocialMoth,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://sonalight.com,Sonalight,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.spinpunch.com,SpinPunch,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://splashup.com,Splashup,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.partnered.com,Sponsorfied,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://stacklead.com,StackLead,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://standardtreasury.com,Standard Treasury,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.startuply.com,Startuply,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://greekstreak.com,Streak.com,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.strike.com.au,Strikingly,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.studyedge.com,StudyEdge,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://stylelend.com,Style Lend,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://thestyleup.com,StyleUp,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://guesty.com,Superhost,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Swagapalooza,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.swishme.com,Swish,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.talkbin.com,TalkBin,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Talkito,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://twitter.com/nowbox,TapIn,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://taplytics.com,Taplytics,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://tapzilla.com,Tapzilla,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://teevox.com,Teevox,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://tellfi.com,TellFi,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.terascore.com,Terascore,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.terravion.com,TerrAvion,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://thedatingring.com,The Dating Ring,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.frid.ge,The Fridge,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://www.shoptheorem.com/,Theorem,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://thesixtyone.com,TheSixtyOne,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Thinkature,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://thread.com,Thread,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://threadable.com,Threadable,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://www.ticketlabs.ca/,TicketLabs,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://ticketstumbler.com,TicketStumbler,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.tiempoapp.com/,Tiempo,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://talkray.com,TiKL,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://tomoguides.com,TomoGuides,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.toutpost.com,Toutpost,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.facebook.com/PitbullTurkishPage4,Tracks.by,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://tradeblock.com,TradeBlock,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.truevault.com,TrueVault,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.tuxebo.co.uk,Tuxebo,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://tweetflow.com,Tweetflow,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://twotap.com,Two Tap,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://ubiome.com,uBiome,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.unbabel.com,Unbabel,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.upowertech.com,UPower,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,UrbanTakeover,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.userfox.com,Userfox,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.vatler.com,Vatler,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.vidpresso.com,Vidpresso,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,View3,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.virtualmin.com,VirtualMin,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.vizeralabs.com/,Vizera Labs,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.voicegem.com,VoiceGem,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.walksource.com,Walksource,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://watchsend.com,Watchsend,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.getweave.com,Weave,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://weilos.com,Weilos,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://www.storyworth.com,WhereBerry,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://Whereoscope.com,Whereoscope,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.whitenoisenetworks.com,Whitenoise Networks,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.wireover.com,WireOver,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://wit.ai,Wit.ai,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://workflowy.com,Workflowy,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://writewith.com,Writewith,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://wufoo.com,Wufoo,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://wundrbar.com,Wundrbar,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.getyardsale.com,Yardsale,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S08 Stealth #24,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S09 Stealth - #24,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S09 Stealth - #25,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S10 Stealth - #35,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S10 Stealth - #36,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S11 Stealth - #57,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S11 Stealth - #58,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S11 Stealth - #59,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S11 Stealth - #60,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S11 Stealth - #61,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S11 Stealth - #62,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S11 Stealth - #63,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S12 Stealth - #72,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S12 Stealth - #73,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S12 Stealth - #74,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S12 Stealth - #75,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S12 Stealth - #76,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S12 Stealth - #77,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S12 Stealth - #78,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S12 Stealth - #79,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S12 Stealth - #80,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S12 Stealth - #81,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S12 Stealth - #82,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S12 Stealth - #83,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S12 Stealth - #84,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S13 Stealth - #48,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S13 Stealth - #49,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S13 Stealth - #50,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S13 Stealth - #51,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S13 Stealth - #52,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC S13 Stealth - #53,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W11 Stealth - #44,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W11 Stealth - #45,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W12 Stealth - #56,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W12 Stealth - #57,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W12 Stealth - #58,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W12 Stealth - #59,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W12 Stealth - #60,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W12 Stealth - #61,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W12 Stealth - #62,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W12 Stealth - #63,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W12 Stealth - #64,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W12 Stealth - #65,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W13 Stealth - #38,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W13 Stealth - #39,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W13 Stealth - #40,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W13 Stealth - #41,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W13 Stealth - #42,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W13 Stealth - #43,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W13 Stealth - #44,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W13 Stealth - #45,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W13 Stealth - #46,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W13 Stealth - #47,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #58,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #59,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #60,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #61,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #62,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #63,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #64,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #65,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #66,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #67,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #68,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #69,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #70,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #71,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #72,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #73,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #74,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,YC W14 Stealth - #75,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.youlicit.com,Youlicit,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.projectwedding.com,YouOS,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://yumdots.com,YumDots,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://zen99.co/,Zen99,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://zenamins.com/,Zenamins,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://zenedy.com,Zenedy,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Zenter,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.zidisha.org,Zidisha,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://zigfu.com,Zigfu,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Zinc,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,nan,Zip Phone,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://zowpow.com,ZowPow,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://shopular.com,Shopular,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://voxli.com,Voxli,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://Teespring.com,Teespring,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.amiato.com,Amiato,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://filepicker.io,Filepicker.io,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://twitter.com/nowbox,Nowmov,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://us.memebox.com,Memebox,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.hellochair.com,Adpinion,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.realcrowd.com,RealCrowd,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.virool.com,Virool,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://zapier.com,Zapier,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.bop.fm,Bop.fm,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.spaceglasses.com,Meta Space Glasses,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://onemonth.com,One Month Rails,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.statuspage.io,StatusPage,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.wefunder.com,WeFunder,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://shoptiques.com,Shoptiques,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://farmlogs.com,FarmLogs,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.zaranga.com,Zaranga,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://www.readyforzero.com,ReadyForZero,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://chartio.com,Chart.io,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.HighlightCam.com,HighlightCam,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://truelinkcard.com,True Link Financial,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.doordash.com,DoorDash,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.zillabyte.com,Zillabyte,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://priceonomics.com,Priceonomics,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://rescuetime.com,RescueTime,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.loopt.com,Loopt,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://siasto.com,Siasto,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.taskforceapp.com/,Taskforce,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.agilemd.com,AgileDiagnosis,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://plangrid.com,PlanGrid,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.futureadvisor.com,FutureAdvisor,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://letsembark.com,Embark,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.vayable.com,Vayable,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.vastrm.com,Vastrm,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://noteleaf.com,Noteleaf,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://snipshot.com,Snipshot,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.mailgun.net,MailGun,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://www.balancedpayments.com,Balanced Payments,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://brid.ge/,Bridge,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,https://clever.com,Clever,PAID,2026-08-13T00:00:00Z
+1.0,PRODUCT,YCombinator Directory,http://ZeroCater.com,ZeroCater,PAID,2026-08-13T00:00:00Z
