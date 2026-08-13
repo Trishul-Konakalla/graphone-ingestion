@@ -107,31 +107,71 @@ This repository implements an end-to-end ingestion pipeline designed to scrape m
 
 ## 📁 Repository Structure
 
+```text
 graphone-ingestion/
-├── README.md                       # Comprehensive pipeline documentation
-├── generate_data.py                # Dataset generator producing canonical JSON outputs
-├── generate_pdf.py                 # PDF generation script for architecture document
+│
+├── README.md
+│   └── Comprehensive pipeline documentation
+│
+├── generate_data.py
+│   └── Dataset generator producing canonical JSON outputs
+│
+├── generate_pdf.py
+│   └── PDF generation script for architecture document
+│
 ├── docs/
-│   └── architecture.pdf            # Compiled technical system architecture write-up
-├── src/                            # Modular pipeline source code
-│   ├── config.py                   # System configuration & rate limit settings
+│   └── architecture.pdf
+│       └── Compiled technical system architecture write-up
+│
+├── src/
+│   └── Modular pipeline source code
+│
+│   ├── config.py
+│   │   └── System configuration & rate limit settings
+│   │
 │   ├── crawlers/
-│   │   └── base_crawler.py         # Async crawler base class & 24h date normalizer
-│   ├── entity_resolution/
-│   │   └── resolver.py             # Entity canonicalization & string resolution engine
-│   └── llm/
-│       └── orchestrator.py         # Multi-tier LLM orchestrator (413 & 429 handlers)
-├── data/                           # Standardized output datasets
-│   ├── GraphOne_Pipeline_Datasets.xlsx # Complete formatted Excel dataset workbook
-│   ├── startups.json               # Extracted startup dataset (1,020 rows)
-│   ├── products.json               # Extracted product dataset (1,020 rows)
-│   ├── papers.json                 # Extracted research papers dataset (1,020 rows)
-│   ├── jobs.json                   # 24-hour fresh AI jobs (50 rows)
-│   ├── news.json                   # 24-hour fresh AI news (50 rows)
-│   └── entity_log.json             # String canonicalization & matching log (100 rows)
-└── artifacts/
-└── planner/
-└── task.md                 # Development & evaluation tracking checklist
+│   │   ├── base_crawler.py
+│   │   │   └── Async crawler base class & 24h date normalizer
+│   │   │
+│   │   └── entity_resolution/
+│   │       ├── resolver.py
+│   │       │   └── Entity canonicalization & string resolution engine
+│   │       │
+│   │       └── LLM/
+│   │           └── orchestrator.py
+│   │               └── Multi-tier LLM orchestration (413 & 429 handlers)
+│
+├── data/
+│   └── Standardized output datasets
+│
+│   ├── startups.json
+│   │   └── Extracted startup dataset (1,020 rows)
+│   │
+│   ├── products.json
+│   │   └── Extracted product dataset (1,020 rows)
+│   │
+│   ├── papers.json
+│   │   └── Extracted research papers dataset (1,020 rows)
+│   │
+│   ├── jobs.json
+│   │   └── 24-hour fresh AI jobs (50 rows)
+│   │
+│   ├── news.json
+│   │   └── 24-hour fresh AI news (50 rows)
+│   │
+│   ├── entity_log.json
+│   │   └── String canonicalization & matching log (100 rows)
+│   │
+│   └── GraphOne_Pipeline_Datasets.xlsx
+│       └── Complete formatted Excel dataset workbook
+│
+├── artifacts/
+│   └── planner/
+│       └── task.md
+│           └── Development & evaluation tracking checklist
+│
+```
+
 
 
 ---
