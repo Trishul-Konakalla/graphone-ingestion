@@ -179,13 +179,14 @@ graphone-ingestion/
 ## 📄 Canonical Data Schemas
 
 ### 1. Startup Entity (`data/startups.json`)
+
 ```json
 {
   "schemaVersion": "1.0",
   "recordType": "STARTUP",
   "source": {
     "name": "TechCrunch Directory",
-    "url": "[https://techcrunch.com/company/openai](https://techcrunch.com/company/openai)"
+    "url": "https://techcrunch.com/company/openai"
   },
   "content": {
     "entityName": "OpenAI",
@@ -195,3 +196,151 @@ graphone-ingestion/
   },
   "collectedAt": "2026-08-13T08:15:00.000Z"
 }
+```
+
+### 2. Product Entity (`data/products.json`)
+
+```json
+{
+  "schemaVersion": "1.0",
+  "recordType": "PRODUCT",
+  "source": {
+    "name": "ProductHunt AI Directory",
+    "url": "https://www.producthunt.com/products/openai-copilot"
+  },
+  "content": {
+    "productName": "OpenAI Copilot",
+    "startupName": "OpenAI",
+    "pricingModel": "FREEMIUM"
+  },
+  "collectedAt": "2026-08-13T08:20:00.000Z"
+}
+```
+
+### 3. Research Paper Entity (`data/papers.json`)
+
+```json
+{
+  "schemaVersion": "1.0",
+  "recordType": "RESEARCH_PAPER",
+  "content": {
+    "title": "Scaling Laws in Large Language Model Pre-training: A Novel Approach",
+    "authors": [
+      "Alex Amodei",
+      "Siddharth Karpathy"
+    ],
+    "paper_url": "https://arxiv.org/abs/2408.10012",
+    "github_url": "https://github.com/ai-research/paper-2408-10012",
+    "github_stars": 12450,
+    "published_date": "2026-07-20T14:30:00.000Z"
+  }
+}
+```
+
+### 4. Job Entity (`data/jobs.json`)
+
+```json
+{
+  "schemaVersion": "1.0",
+  "recordType": "JOB",
+  "source": {
+    "name": "AI Job Board",
+    "url": "https://ai-jobs.net/job/10005"
+  },
+  "content": {
+    "job_title": "Senior AI Engineer",
+    "company": "Anthropic",
+    "date": "2026-08-13T04:12:00.000Z",
+    "is_remote": true,
+    "role_family": "Engineering"
+  }
+}
+```
+
+### 5. News Entity (`data/news.json`)
+
+```json
+{
+  "schemaVersion": "1.0",
+  "recordType": "NEWS",
+  "source": {
+    "name": "TechCrunch AI",
+    "url": "https://news.ycombinator.com/item?id=30000012"
+  },
+  "content": {
+    "title": "Frontier Model Performance Benchmarks Released for Q3 2026",
+    "summary": "In-depth analysis regarding frontier model performance benchmarks with key insights.",
+    "published_date": "2026-08-13T02:45:00.000Z",
+    "author": "AI Intelligence Team"
+  }
+}
+```
+
+### 6. Entity Mapping Log (`data/entity_log.json`)
+
+```json
+{
+  "raw_string": "OpenAI, Inc.",
+  "resolved_canonical": "OpenAI",
+  "resolution_method": "Deterministic Exact Alias Match",
+  "confidence_score": 1.0,
+  "resolved_at": "2026-08-13T08:10:00.000Z"
+}
+```
+
+---
+
+## 🛠 Getting Started & Installation
+
+### Prerequisites
+
+* Python 3.10 or higher
+* Git
+
+### Quickstart Setup
+
+#### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Trishul-Konakalla/graphone-ingestion.git
+cd graphone-ingestion
+```
+
+#### 2. Set Up Virtual Environment
+
+```bash
+python3 -m venv venv
+```
+
+**Linux / macOS:**
+
+```bash
+source venv/bin/activate
+```
+
+**Windows:**
+
+```bash
+venv\Scripts\activate
+```
+
+#### 3. Install Dependencies
+
+```bash
+pip install pandas openpyxl reportlab aiohttp beautifulsoup4
+```
+
+#### 4. Generate Datasets & Documentation
+
+```bash
+python generate_data.py
+python generate_pdf.py
+```
+
+---
+
+## 📈 Deliverables & Submission Links
+
+* **Public Google Sheet:** [GraphOne Intelligence Data Output](https://docs.google.com/spreadsheets/d/1SOiVzavXMQdv9t7Xtyy9DRw4P46KPGC5OR7yyjAsJHw/edit?gid=2115311719#gid=2115311719)
+* **Author:** Konakalla Trishul
+
